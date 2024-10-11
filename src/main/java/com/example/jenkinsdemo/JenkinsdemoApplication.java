@@ -10,6 +10,7 @@ public class JenkinsdemoApplication {
 
 		SpringApplication.run(JenkinsdemoApplication.class, args);
 		System.out.println("jenkins demo started");
+		System.out.println("jenkins demo commit 2 to check poll scm");
 	}
 
 }
